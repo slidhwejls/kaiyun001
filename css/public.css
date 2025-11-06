@@ -228,7 +228,7 @@ h2 {
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 720px) {
     h2 {
         font-size: 22px;
     }
@@ -237,3 +237,4 @@ h2 {
         font-size: 18px;
     }
 }
+
